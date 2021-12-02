@@ -6,7 +6,7 @@
 //  Description   : generate IinP flag for dbsao/cabac and fme
 //
 //------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module IinP_flag_gen(
     clk             ,

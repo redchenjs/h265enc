@@ -12,7 +12,7 @@
 //
 //-------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../../enc_defines.v"
 
 module intra_ctrl(
   // global

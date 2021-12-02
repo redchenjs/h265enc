@@ -19,7 +19,7 @@
 //							 			       8x4  line OUT
 //							 			       4x4  line OUT
 //------------------------------------------------------------------- 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module mem_lipo_1p_128x64x4   (
 				clk      		,      

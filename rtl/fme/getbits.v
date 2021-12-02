@@ -6,7 +6,7 @@
 //  Description     : support skip and merge
 //
 //-------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module getbits(
 		var_i ,

@@ -7,7 +7,7 @@
 //
 //--------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module ime_partition_decision(
   // global

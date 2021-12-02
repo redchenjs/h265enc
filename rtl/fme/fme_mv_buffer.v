@@ -6,7 +6,7 @@
 //  Description     : top and left mv buffer
 //
 //-------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module fme_mv_buffer(
         clk                     ,

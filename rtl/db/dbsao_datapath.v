@@ -14,7 +14,7 @@
 // Created        : 2018-01-24 
 // Description    :         
 //------------------------------------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module dbsao_datapath(
         clk                     ,

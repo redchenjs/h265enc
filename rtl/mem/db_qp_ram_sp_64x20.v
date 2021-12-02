@@ -7,7 +7,7 @@
 //
 //-----------------------------------------------------
 
-`include "enc_defines.v" 
+`include "../enc_defines.v"
 
 module db_qp_ram_sp_64x20 (
     clk         ,

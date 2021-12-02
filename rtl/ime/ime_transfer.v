@@ -37,7 +37,7 @@
 //  line  |                     32*1                   |               32*1
 //
 //--------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 module ime_transfer(
   // global
   clk               ,

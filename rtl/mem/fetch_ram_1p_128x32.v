@@ -18,7 +18,7 @@
 //
 //-------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module fetch_ram_1p_128x32 (
   clk    ,

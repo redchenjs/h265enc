@@ -19,7 +19,7 @@
 //
 //-------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module fme_ip_half_ver (
 	clk		,

@@ -6,7 +6,7 @@
 //  Description   : rtl model for single-port sram (bit enable)
 //
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module prei_md_ram_sp_85x6 (
   clk         ,

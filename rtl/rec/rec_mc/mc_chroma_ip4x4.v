@@ -20,7 +20,7 @@
 //-------------------------------------------------------------------
 
 
-`include "enc_defines.v"
+`include "../../enc_defines.v"
 
 module mc_chroma_ip4x4(
           clk,

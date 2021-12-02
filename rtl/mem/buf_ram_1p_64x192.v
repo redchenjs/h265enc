@@ -10,7 +10,7 @@
 //  Contact       : fanyibo@fudan.edu.cn             
 //-------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module buf_ram_1p_64x192 (
     				clk  		,

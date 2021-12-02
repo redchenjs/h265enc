@@ -8,7 +8,7 @@
 //                  V1.0 basic
 //
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module prei_top(
 

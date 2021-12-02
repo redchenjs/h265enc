@@ -26,7 +26,7 @@
 //
 //-------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module fetch_cur_luma (
   clk                  ,

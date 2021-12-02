@@ -17,7 +17,7 @@
 //  Description   : LCU level rate control logic
 //
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module rate_control(
         clk                  ,

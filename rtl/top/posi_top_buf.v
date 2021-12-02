@@ -17,7 +17,7 @@
 //  Description   : posi top with memory buffer
 //
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module posi_top_buf(
   clk                   ,

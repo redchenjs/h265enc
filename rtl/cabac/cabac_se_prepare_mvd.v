@@ -16,7 +16,7 @@
 // DATA & EDITION:  2018/1/20   1.0     liwei
 // $Id$
 //-----------------------------------------------------------------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module cabac_se_prepare_mvd(
            mvp_idx_i         ,

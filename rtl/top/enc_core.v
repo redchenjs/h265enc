@@ -17,7 +17,7 @@
 //  Description   : core of enc
 //
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module enc_core(
     // global signal

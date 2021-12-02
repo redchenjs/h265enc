@@ -7,7 +7,7 @@
 //
 //------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module mc_mv_ram_sp_512x20(
 		clk    ,

@@ -6,7 +6,7 @@
 //  Description : vertical memory in ime module
 //
 //--------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 module ime_ver_mem(
   // global
   clk             ,

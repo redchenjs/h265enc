@@ -7,7 +7,7 @@
 //
 //--------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module ram_sp_be_192x64 (
   // global

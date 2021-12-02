@@ -22,7 +22,7 @@
 //
 //-------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module fetch_ram_2p_64x208 (
             clk          ,

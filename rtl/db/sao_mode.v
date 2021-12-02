@@ -14,7 +14,7 @@
 // Creatu_ved     : 2017-12-07
 // Description    :
 //------------------------------------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module sao_mode (
             clk                 ,

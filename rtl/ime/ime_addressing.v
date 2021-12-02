@@ -23,7 +23,7 @@
 //  Description : several bugs, typos fixed
 //
 //--------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 module ime_addressing(
   // global
   clk                ,

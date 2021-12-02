@@ -6,7 +6,7 @@
 //  Description     : support fme skip and merge
 //
 //-------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module fme_mv_candidate_prepare(
     clk                 ,

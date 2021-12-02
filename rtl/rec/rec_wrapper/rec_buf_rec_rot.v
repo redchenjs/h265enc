@@ -7,7 +7,7 @@
 //
 //--------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../../enc_defines.v"
 
 module rec_buf_rec_rot (
   // global

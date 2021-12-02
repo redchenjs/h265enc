@@ -7,7 +7,7 @@
 //
 //-----------------------------------------------------
 
-`include "enc_defines.v" 
+`include "../enc_defines.v"
 
 module cabac_ram_sp_64x16 (
     clk      ,

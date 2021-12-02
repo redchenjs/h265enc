@@ -6,7 +6,7 @@
 //  Description   : enc data pipeline control
 //
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module enc_data_pipeline(
     // global

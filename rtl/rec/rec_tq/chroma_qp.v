@@ -6,7 +6,7 @@
 // Description  : update chroma qp
 //
 //------------------------------------------------------
-`include "enc_defines.v"
+`include "../../enc_defines.v"
 
 module chroma_qp(
 	qp_i 	,

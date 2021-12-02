@@ -13,7 +13,7 @@
 //  Author        : TANG 
 //  Date          : 2018-05-13
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module buf_ram_1p_128x64 (
                     clk         ,
@@ -37,7 +37,6 @@ wire                        ce_w        ;
 wire                        we_w        ;
 assign ce_w = !ce ;
 assign we_w = !we ;
-
 `ifdef RTL_MODEL 
 ram_1p #(
     .Addr_Width(        7       ) , 

@@ -17,7 +17,7 @@
 //  Description   : ime top with memory buffer
 //
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module ime_top_buf(
   // sys_if

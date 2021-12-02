@@ -23,7 +23,7 @@
 //
 //-------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module mem_bilo_db   (
         clk             ,

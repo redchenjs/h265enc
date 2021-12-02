@@ -7,7 +7,7 @@
 //
 //-----------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module coe_addr_trans(
            clk      ,

@@ -17,7 +17,7 @@
 // DATA & EDITION:  2017/12/25  1.0     liwei
 // $Id$
 //-----------------------------------------------------------------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 module cabac_se_prepare_sig_coeff_ctx(
            pattern_sig_ctx_i          ,
            scan_idx_i                 ,

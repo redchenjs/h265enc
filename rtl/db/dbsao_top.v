@@ -14,7 +14,7 @@
 // Created        : 
 // Description    : TOP module of Deblocking Filter and Sample Adaptive Offset
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 // `define SIZ8x4 1 // 8x4
 // `define SIZ32x1 2

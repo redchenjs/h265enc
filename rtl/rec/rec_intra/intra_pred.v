@@ -25,7 +25,7 @@
 //
 //-------------------------------------------------------------------
 
-`include "./enc_defines.v"
+`include "../../enc_defines.v"
 
 module intra_pred(
 	clk,rst_n,

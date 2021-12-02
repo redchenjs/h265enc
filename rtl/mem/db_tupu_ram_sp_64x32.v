@@ -7,7 +7,7 @@
 //
 //-----------------------------------------------------
 
-`include "enc_defines.v" 
+`include "../enc_defines.v"
 
 module db_tupu_ram_sp_64x32 (
     clk         ,

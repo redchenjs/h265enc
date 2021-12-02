@@ -7,7 +7,7 @@
 //
 //-----------------------------------------------------
 
-`include "enc_defines.v" 
+`include "../enc_defines.v"
 
 module prei_ram_dp_16x32(
 	clk 		,

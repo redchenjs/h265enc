@@ -13,7 +13,7 @@
 //  Author        : TANG 
 //  Date          : 2018-05-13
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module buf_ram_1p_64x64 (
                     clk         ,

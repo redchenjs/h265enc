@@ -19,7 +19,7 @@
 //
 //-------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module fetch_rf_1p_64x256 (
     clk            ,

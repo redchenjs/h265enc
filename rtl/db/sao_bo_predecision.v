@@ -14,7 +14,7 @@
 // Creatu_ved     : 
 // Description    :         
 //------------------------------------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module sao_bo_predecision(
             clk                 ,

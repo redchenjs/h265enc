@@ -12,7 +12,7 @@
 //
 //--------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../../enc_defines.v"
 
 module fetch_buf_wrapper_yuv (
   // global

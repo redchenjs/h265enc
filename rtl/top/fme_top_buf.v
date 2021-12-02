@@ -17,7 +17,7 @@
 //  Description   : fme top with memory buffer
 //
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module fme_top_buf(
     // global

@@ -16,7 +16,7 @@
 // DATA & EDITION:	2018/1/25	1.0		liwei
 // $Id$
 //-----------------------------------------------------------------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module cabac_se_prepare_amplitude_of_coeff(
            clk                        ,

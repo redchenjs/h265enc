@@ -7,7 +7,7 @@
 //
 //--------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module ram_tp_be_32x64 (
   // global

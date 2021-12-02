@@ -10,7 +10,7 @@
 //  Contact       : fanyibo@fudan.edu.cn
 //
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 
 module prei_top_buf(

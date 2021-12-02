@@ -1,5 +1,5 @@
 
-`include "enc_defines.v"
+`include "../../enc_defines.v"
 
 module   q_iq(
           clk       ,

@@ -14,7 +14,7 @@
 // Creatu_ved     : 12/19/2017
 // Description    :         
 //------------------------------------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module sao_add_offset(
         clk               ,

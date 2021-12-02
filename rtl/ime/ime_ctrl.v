@@ -6,7 +6,7 @@
 //  Description : control logic in ime module
 //
 //--------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 module ime_ctrl(
   // global
   clk             ,

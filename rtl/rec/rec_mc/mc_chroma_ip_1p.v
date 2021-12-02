@@ -19,7 +19,7 @@
 //  Description   :
 //-------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../../enc_defines.v"
 
 module mc_chroma_ip_1p (
 

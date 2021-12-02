@@ -12,7 +12,7 @@
 //
 //--------------------------------------------------------------------
 
-`include "./enc_defines.v"
+`include "../enc_defines.v"
 
 module posi_satd_cost_transpose(
   // global

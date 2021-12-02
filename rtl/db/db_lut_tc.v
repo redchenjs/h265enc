@@ -14,7 +14,7 @@
 // Created        : 2014-04-018
 // Description    : look up table of tc         
 //----------------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../enc_defines.v"
 
 module db_lut_tc( qp_i,mb_type_i,tc_o );
 
