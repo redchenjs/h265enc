@@ -16,7 +16,7 @@
 //               
 // $Id$ 
 //------------------------------------------------------------------- 
-`include "enc_defines.v"
+`include "../../../rtl/enc_defines.v"
 
 module rom_1p (
 				clk     ,

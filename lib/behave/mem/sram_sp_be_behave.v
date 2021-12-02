@@ -6,7 +6,7 @@
 //  Description   : rtl model for single-port sram (bit enable)
 //
 //-------------------------------------------------------------------
-`include "enc_defines.v"
+`include "../../../rtl/enc_defines.v"
 
 module sram_sp_be_behave (
   clk       ,

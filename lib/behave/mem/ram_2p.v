@@ -16,7 +16,7 @@
 //               
 // $Id$ 
 //------------------------------------------------------------------- 
-`include "enc_defines.v"
+`include "../../../rtl/enc_defines.v"
 
 module ram_2p (
 				clka    ,  

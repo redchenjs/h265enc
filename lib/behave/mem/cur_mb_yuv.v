@@ -31,7 +31,7 @@
 //
 //-------------------------------------------------------------------
 
-`include "enc_defines.v"
+`include "../../../rtl/enc_defines.v"
 
 
 module cur_mb_yuv (
